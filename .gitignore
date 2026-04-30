@@ -1,2 +1,6 @@
 *.joblib
 kidney_stone/dataset
+Embryo Classification/dataset
+.venv
+kidney_stone/runs
+*.pt
