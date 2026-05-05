@@ -6,3 +6,4 @@ kidney_stone/runs
 *.pt
 *.pth
 saved_models/
+chronic_disease_management/dataset
