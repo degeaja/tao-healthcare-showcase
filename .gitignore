@@ -4,3 +4,5 @@ Embryo Classification/dataset
 .venv
 kidney_stone/runs
 *.pt
+*.pth
+saved_models/
